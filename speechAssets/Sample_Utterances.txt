@@ -1,0 +1,53 @@
+// SAMPLE UTTERANCES //
+
+
+HouseRulesIntent What are the Rules
+HouseRulesIntent Tell me the rules
+EndIntent Thank You
+EndIntent Bye
+EndIntent Quit
+EndIntent Im done
+EndIntent Close
+
+
+
+WifiIntent What is the wifi
+WifiIntent Whats the password to wifi
+WifiIntent How do I get online
+WifiIntent Whats the network
+
+
+
+InChargeIntent Who is in charge
+InChargeIntent Whoes the boss
+InChargeIntent Who is in charge of airbnb
+InChargeIntent Is there somebody in charge of this place
+InChargeIntent who is in charge of the guests
+
+
+
+ParkingInsideIntent Can I park inside
+ParkingInsideIntent Can I park inside the lot
+ParkingInsideIntent May I park inside
+ParkingInsideIntent Should I park inside
+ParkingInsideIntent Can I leave my car inside
+ParkingInsideIntent Can we park inside
+
+
+TrashIntent Who takes out the trash
+TrashIntent Does the host takes out the trash
+TrashIntent Do I take out the trash can
+TrashIntent Where do I put the trash at
+TrashIntent Do the guests takes out the trash
+TrashIntent Do I really have to take out the trash
+
+ContactHostIntent Whats the host information
+ContactHostIntent What is the host contact information
+ContactHostIntent How do I contact my host
+ContactHostIntent Whats the contact information of the host
+ContactHostIntent whats the host contact information
+
+HostDoIntent What does the host do
+HostDoIntent whats the host up to
+HostDoIntent What kind of things does the host do
+HostDoIntent What does the host do beside airbnb

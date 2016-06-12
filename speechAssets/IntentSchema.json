@@ -1,0 +1,37 @@
+//SKILL INFORMATION MODEL//
+// SKILL TYPE: CUSTOM INTERACTION MODEL
+// NAME: MY AIRBNB BUTLER
+// INVOCATION NAME : MY BUTLER
+
+// INTERACTION MODEL //
+// INTENT SCHEMA: The schema of user intents in JSON format. 
+
+{
+  "intents": [
+    {
+      "intent": "HouseRulesIntent"
+    },
+    {
+      "intent": "EndIntent"
+    },
+    {
+      "intent": "WifiIntent"
+    },
+    {
+      "intent": "InChargeIntent"
+    },
+    {
+      "intent": "ParkingInsideIntent"
+    },
+    {
+      "intent": "TrashIntent"
+    },
+    {
+      "intent": "ContactHostIntent"
+    },
+    {
+      "intent": "HostDoIntent"
+    }
+
+  ]
+}
